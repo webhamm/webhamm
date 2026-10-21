@@ -23,4 +23,4 @@ I've spent 20+ years leading development strategy and engineering teams for majo
 - **Platform & governance:** API-first design · CMS migration · commerce integration · DevOps · PCI / SOX / NIST
 
 ### Find me
-🌐 [christopherhamm.com](https://christopherhamm.com) · 💼 [LinkedIn](https://www.linkedin.com/in/chrishamm) · 📄 [Resume](https://christopherhamm.com/Christopher-Hamm-Resume.pdf) · [Former GitHub account] (https://github.com/cbsi-hammc)
+🌐 [christopherhamm.com](https://christopherhamm.com) · 💼 [LinkedIn](https://www.linkedin.com/in/chrishamm) · 📄 [Resume](https://christopherhamm.com/Christopher-Hamm-Resume.pdf) · :octocat: [Former GitHub account](https://github.com/cbsi-hammc)
